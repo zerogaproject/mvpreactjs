@@ -1,7 +1,7 @@
 {
   "name": "reactapp",
   "version": "1.0.0",
-  "description": "",
+  "description": "react",
   "main": "app.js",
   "scripts": {
     "test": "mocha"
@@ -10,10 +10,14 @@
     "type": "git",
     "url": "git+https://github.com/zerogaproject/mvpreactjs.git"
   },
-  "author": "",
+  "author": "Jin",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/zerogaproject/mvpreactjs/issues"
   },
-  "homepage": "https://github.com/zerogaproject/mvpreactjs#readme"
+  "homepage": "https://github.com/zerogaproject/mvpreactjs#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "redux": "^3.6.0"
+  }
 }
