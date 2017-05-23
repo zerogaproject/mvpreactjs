@@ -1,0 +1,19 @@
+{
+  "name": "reactapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zerogaproject/mvpreactjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zerogaproject/mvpreactjs/issues"
+  },
+  "homepage": "https://github.com/zerogaproject/mvpreactjs#readme"
+}
